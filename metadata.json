@@ -1,0 +1,6 @@
+{
+  "name": "Spartan-117: Ringworld - AAA Concept Art Studio",
+  "description": "AAA Sci-Fi FPS Key Art & Art Direction Studio for MA37 SPARTAN-117 with 8K Photorealistic Cinematically-Rendered Art, Interactive HUD, Prompt Tuner & Gemini AI Art Director.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
